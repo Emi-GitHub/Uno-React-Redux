@@ -1,0 +1,109 @@
+/*Score*/
+.background-score{
+    background-color:rgba(185, 100, 100, 0.1);
+}
+/*ScoreTable*/
+thead, tbody {
+    text-align: center;
+}
+img {
+    display: inline-block;
+    margin-right: 1em;
+}
+th {
+    background-color: rgba(193, 66, 66, 0.1) !important;
+    border-bottom: 1px solid black !important;
+}
+tr:hover {
+    background-color:rgba(185, 100, 100, 0.1);
+}
+tr.mark-table td{
+    border-bottom: 1px solid black;
+}
+.search-gamer {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.gamer-input {
+    width: 100%;
+    margin-right: 20px;
+}
+.gamer-input:hover {
+    color: skyblue;
+}
+.add {
+    background-color:rgba(193, 66, 66, 0.1) !important;
+}
+.score-parents {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.game-table {
+    margin: 30px 20px 30px 20px;
+}
+.score-child-one {
+    width: 30%;
+}
+.score-child-two {
+    width: 20%;
+}
+.table-name { 
+    background: whitesmoke;
+}
+.versions-header {
+    font-family: 'Liu Jian Mao Cao', cursive;
+    color: brown;
+    font-size: 30px;
+    text-align: center;
+    padding-right: 20px;
+}
+.score-box {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 20px 20px 20px 20px;
+    padding: 30px 20px 30px 30px;
+    border-radius: 10px;
+    overflow: auto;
+    height: 300px;
+}
+.poeple-icon {
+    margin-top: 10px;
+    font-size: large;
+}
+.table-icon {
+    width: 30px;
+}
+.edit-icon {
+    white-space: 20px;
+}
+.icon-input {
+    margin-left: 90px;
+}
+.icon-input-points {
+    margin-left: 130px;
+}
+@media 
+only screen and (max-width: 800px),
+(min-device-width: 799px) and (max-device-width: 1024px)  {
+    tbody {
+        height: 140px;       
+        overflow-y: auto;    
+        overflow-x: hidden; 
+    }
+    .search-gamer {
+        display: block;
+    }
+    .gamer-input {
+        margin-top: 10px;
+    }
+    .value {
+        margin-bottom: 10px;
+    }
+    .add {
+        margin: auto;
+        width: 50%;
+    }
+}

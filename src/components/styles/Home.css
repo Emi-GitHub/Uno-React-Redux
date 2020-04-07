@@ -1,0 +1,26 @@
+.background-home {
+    background-image: url("../pictures/casino.jpg");
+    height: 900px;
+    width: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parents-home {
+    margin-top: 200px;
+}
+.header-home {
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+    font-size: 100px;
+    word-spacing: -13px;
+    color: white;
+}
+.subheader-home {
+    font-family: 'Liu Jian Mao Cao', cursive;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 60px;
+    color: #ffc107;
+    margin-top: -20px;
+}
