@@ -29,29 +29,29 @@ here you can test your knowledge of uno
 ## Game rules page
 
 <img src="./public/readme/Screenshot_2.png">
-##
+
 <img src="./public/readme/Screenshot_3.png">
 
 ## Special cards page
 
 <img src="./public/readme/Screenshot_4.png">
-##
+
 <img src="./public/readme/Screenshot_5.png">
 
 ## Check results page
 
 <img src="./public/readme/Screenshot_6.png">
-##
+
 <img src="./public/readme/Screenshot_7.png">
-##
+
 <img src="./public/readme/Screenshot_8.png">
-##
+
 <img src="./public/readme/Screenshot_9.png">
 
 ## Quiz page
 
 <img src="./public/readme/Screenshot_10.png">
-##
+
 <img src="./public/readme/Screenshot_11.png">
-##
+
 <img src="./public/readme/Screenshot_12.png">
