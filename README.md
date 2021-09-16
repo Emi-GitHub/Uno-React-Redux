@@ -19,7 +19,7 @@ Add player
 Delete player
 Edit player
 <li>Quiz</li>
-Here you can find my linkedin and github
+here you can test your knowledge of uno
 </ul>
 
 ## Home page
